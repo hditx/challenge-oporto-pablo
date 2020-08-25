@@ -1,0 +1,13 @@
+package com.listening.listening;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ListeningApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
